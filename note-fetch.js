@@ -7,7 +7,6 @@ fetch('http://viewyt.xyz/api/taonote.php', {
         'Accept-Language': 'en-US,en;q=0.9',
         'Cache-Control': 'max-age=0',
         'Connection': 'keep-alive',
-        'Cookie': 'wschkid=4bccba47d72de0414b3bb434392813bc3754550c.1656339934.1',
         'Origin': 'http://viewyt.xyz',
         'Referer': 'http://viewyt.xyz/index.php',
         'Upgrade-Insecure-Requests': '1',
